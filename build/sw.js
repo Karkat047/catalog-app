@@ -1,9 +1,9 @@
 const CACHE_NAME = 'catalog-v1';
 const urlsToCache = [
-	'/',
-	'/static/js/bundle.js',
-	'/static/css/main.css',
-	'/data.json'
+	'/catalog-app/',
+	'/catalog-app/static/js/main.2aa8deec.js',
+	'/catalog-app/static/css/main.91961923.css',
+	'/catalog-app/data.json'
 ];
 
 self.addEventListener('install', (event) => {
