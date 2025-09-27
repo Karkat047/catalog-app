@@ -10,12 +10,12 @@
           {
             "id": 1001,
             "title": "01",
-            "image": "/images/vertical/01.png"
+            "image": "/catalog-app/images/vertical/01.png"
           },
           {
             "id": 1002,
             "title": "02",
-            "image": "/images/vertical/02.png"
+            "image": "/catalog-app/images/vertical/02.png"
           }
         ]
       },
@@ -26,12 +26,12 @@
           {
             "id": 1003,
             "title": "01",
-            "image": "/images/horizontal/01.png"
+            "image": "/catalog-app/images/horizontal/01.png"
           },
           {
             "id": 1004,
             "title": "02",
-            "image": "/images/horizontal/02.png"
+            "image": "/catalog-app/images/horizontal/02.png"
           }
         ]
       }
@@ -45,7 +45,7 @@
       {
         "id": 2001,
         "title": "01",
-        "image": "/images/01.jpg"
+        "image": "/catalog-app/images/01.jpg"
       }
     ]
   }

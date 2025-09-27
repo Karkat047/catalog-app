@@ -7,7 +7,7 @@ export const Catalog = () => {
 	const [currentSubcategory, setCurrentSubcategory] = useState(null);
 	
 	useEffect(() => {
-		fetch('/data.json')
+		fetch('/catalog-app/data.json')
 			.then(response => response.json())
 			.then(setData);
 	}, []);
