@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Памятники",
+    "subcategories": [
+      {
+        "id": 101,
+        "title": "Вертикальные",
+        "items": [
+          {
+            "id": 1001,
+            "title": "01",
+            "image": "/images/vertical/01.png"
+          },
+          {
+            "id": 1002,
+            "title": "02",
+            "image": "/images/vertical/02.png"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "title": "Горизонтальные",
+        "items": [
+          {
+            "id": 1003,
+            "title": "01",
+            "image": "/images/horizontal/01.png"
+          },
+          {
+            "id": 1004,
+            "title": "02",
+            "image": "/images/horizontal/02.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Цветы",
+    "subcategories": [],
+    "items": [
+      {
+        "id": 2001,
+        "title": "01",
+        "image": "/images/01.jpg"
+      }
+    ]
+  }
+]
