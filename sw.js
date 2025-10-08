@@ -1,14 +1,11 @@
-// public/sw.js
-const CACHE_NAME = 'catalog-cache-v1'; // bump this on breaking changes
+const CACHE_NAME = 'catalog-cache-v1.1';
 const PRECACHE_URLS = [
-	'./',               // корень — обычно отдает index.html
+	'./',
 	'./index.html',
 	'./manifest.json',
 	'./data.json',
 	'./images/icon-192x192.png',
-	// ./offline.html, // <-- раскомментируйте если добавите оффлайн-страницу
-	// ВАЖНО: добавьте сюда реальные пути к вашим сгенерированным static/js/*.js и static/css/*.css
-	// или используйте Workbox на этапе билда (лучше).
+	// ./offline.html,
 ];
 
 // Утилита: безопасно кешировать список (чтобы install не падал из-за одного 404)
