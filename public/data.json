@@ -8,14 +8,184 @@
         "title": "Вертикальные",
         "items": [
           {
-            "id": 1001,
+            "id": 101001,
             "title": "01",
-            "image": "/catalog-app/images/vertical/01.png"
+            "image": "/catalog-app/images/monuments/vertical/01.png"
           },
           {
-            "id": 1002,
+            "id": 101002,
             "title": "02",
-            "image": "/catalog-app/images/vertical/02.png"
+            "image": "/catalog-app/images/monuments/vertical/02.png"
+          },
+          {
+            "id": 101003,
+            "title": "03",
+            "image": "/catalog-app/images/monuments/vertical/03.png"
+          },
+          {
+            "id": 101004,
+            "title": "04",
+            "image": "/catalog-app/images/monuments/vertical/04.png"
+          },
+          {
+            "id": 101005,
+            "title": "05",
+            "image": "/catalog-app/images/monuments/vertical/05.png"
+          },
+          {
+            "id": 101006,
+            "title": "06",
+            "image": "/catalog-app/images/monuments/vertical/06.png"
+          },
+          {
+            "id": 101007,
+            "title": "07",
+            "image": "/catalog-app/images/monuments/vertical/07.png"
+          },
+          {
+            "id": 101008,
+            "title": "08",
+            "image": "/catalog-app/images/monuments/vertical/08.png"
+          },
+          {
+            "id": 101009,
+            "title": "09",
+            "image": "/catalog-app/images/monuments/vertical/09.png"
+          },
+          {
+            "id": 101010,
+            "title": "10",
+            "image": "/catalog-app/images/monuments/vertical/10.png"
+          },
+          {
+            "id": 101011,
+            "title": "11",
+            "image": "/catalog-app/images/monuments/vertical/11.png"
+          },
+          {
+            "id": 101012,
+            "title": "12",
+            "image": "/catalog-app/images/monuments/vertical/12.png"
+          },
+          {
+            "id": 101013,
+            "title": "13",
+            "image": "/catalog-app/images/monuments/vertical/13.png"
+          },
+          {
+            "id": 101014,
+            "title": "14",
+            "image": "/catalog-app/images/monuments/vertical/14.png"
+          },
+          {
+            "id": 101015,
+            "title": "15",
+            "image": "/catalog-app/images/monuments/vertical/15.png"
+          },
+          {
+            "id": 101016,
+            "title": "16",
+            "image": "/catalog-app/images/monuments/vertical/16.png"
+          },
+          {
+            "id": 101017,
+            "title": "17",
+            "image": "/catalog-app/images/monuments/vertical/17.png"
+          },
+          {
+            "id": 101018,
+            "title": "18",
+            "image": "/catalog-app/images/monuments/vertical/18.png"
+          },
+          {
+            "id": 101019,
+            "title": "19",
+            "image": "/catalog-app/images/monuments/vertical/19.png"
+          },
+          {
+            "id": 101020,
+            "title": "20",
+            "image": "/catalog-app/images/monuments/vertical/20.png"
+          },
+          {
+            "id": 101021,
+            "title": "21",
+            "image": "/catalog-app/images/monuments/vertical/21.png"
+          },
+          {
+            "id": 101022,
+            "title": "22",
+            "image": "/catalog-app/images/monuments/vertical/22.png"
+          },
+          {
+            "id": 101023,
+            "title": "23",
+            "image": "/catalog-app/images/monuments/vertical/23.png"
+          },
+          {
+            "id": 101024,
+            "title": "24",
+            "image": "/catalog-app/images/monuments/vertical/24.png"
+          },
+          {
+            "id": 101025,
+            "title": "25",
+            "image": "/catalog-app/images/monuments/vertical/25.png"
+          },
+          {
+            "id": 101026,
+            "title": "26",
+            "image": "/catalog-app/images/monuments/vertical/26.png"
+          },
+          {
+            "id": 101027,
+            "title": "27",
+            "image": "/catalog-app/images/monuments/vertical/27.png"
+          },
+          {
+            "id": 101028,
+            "title": "28",
+            "image": "/catalog-app/images/monuments/vertical/28.png"
+          },
+          {
+            "id": 101029,
+            "title": "29",
+            "image": "/catalog-app/images/monuments/vertical/29.png"
+          },
+          {
+            "id": 101030,
+            "title": "30",
+            "image": "/catalog-app/images/monuments/vertical/30.png"
+          },
+          {
+            "id": 101031,
+            "title": "31",
+            "image": "/catalog-app/images/monuments/vertical/31.png"
+          },
+          {
+            "id": 101032,
+            "title": "32",
+            "image": "/catalog-app/images/monuments/vertical/32.png"
+          },
+          {
+            "id": 101033,
+            "title": "33",
+            "image": "/catalog-app/images/monuments/vertical/33.png"
+          },
+          {
+            "id": 101034,
+            "title": "34",
+            "image": "/catalog-app/images/monuments/vertical/34.png"
+          },
+          {
+            "id": 101035,
+            "title": "35",
+            "image": "/catalog-app/images/monuments/vertical/35.png"
+          },
+          {
+            "id": 101030,
+            "title": "36",
+            "image": "/catalog-app/images/monuments/vertical/36.png"
           }
         ]
       },
@@ -24,14 +194,64 @@
         "title": "Горизонтальные",
         "items": [
           {
-            "id": 1003,
+            "id": 102001,
             "title": "01",
-            "image": "/catalog-app/images/horizontal/01.png"
+            "image": "/catalog-app/images/monuments/horizontal/01.png"
           },
           {
-            "id": 1004,
+            "id": 102002,
             "title": "02",
-            "image": "/catalog-app/images/horizontal/02.png"
+            "image": "/catalog-app/images/monuments/horizontal/02.png"
+          },
+          {
+            "id": 102003,
+            "title": "03",
+            "image": "/catalog-app/images/monuments/horizontal/03.png"
+          },
+          {
+            "id": 102004,
+            "title": "04",
+            "image": "/catalog-app/images/monuments/horizontal/04.png"
+          },
+          {
+            "id": 102005,
+            "title": "05",
+            "image": "/catalog-app/images/monuments/horizontal/05.png"
+          },
+          {
+            "id": 102006,
+            "title": "06",
+            "image": "/catalog-app/images/monuments/horizontal/06.png"
+          },
+          {
+            "id": 102007,
+            "title": "07",
+            "image": "/catalog-app/images/monuments/horizontal/07.png"
+          },
+          {
+            "id": 102008,
+            "title": "08",
+            "image": "/catalog-app/images/monuments/horizontal/08.png"
+          },
+          {
+            "id": 102009,
+            "title": "09",
+            "image": "/catalog-app/images/monuments/horizontal/09.png"
+          },
+          {
+            "id": 102010,
+            "title": "10",
+            "image": "/catalog-app/images/monuments/horizontal/10.png"
+          },
+          {
+            "id": 102011,
+            "title": "11",
+            "image": "/catalog-app/images/monuments/horizontal/11.png"
+          },
+          {
+            "id": 102012,
+            "title": "12",
+            "image": "/catalog-app/images/monuments/horizontal/12.png"
           }
         ]
       }
@@ -39,13 +259,380 @@
   },
   {
     "id": 2,
-    "title": "Цветы",
-    "subcategories": [],
-    "items": [
+    "title": "Оформление",
+    "subcategories": [
       {
-        "id": 2001,
-        "title": "01",
-        "image": "/catalog-app/images/01.jpg"
+        "id": 201,
+        "title": "Цветы",
+        "items": [
+          {
+            "id": 201001,
+            "title": "01",
+            "image": "/catalog-app/images/design/flowers/01.jpg"
+          },
+          {
+            "id": 201002,
+            "title": "02",
+            "image": "/catalog-app/images/design/flowers/02.jpg"
+          },
+          {
+            "id": 201003,
+            "title": "03",
+            "image": "/catalog-app/images/design/flowers/03.jpg"
+          },
+          {
+            "id": 201004,
+            "title": "04",
+            "image": "/catalog-app/images/design/flowers/04.jpg"
+          },
+          {
+            "id": 201005,
+            "title": "05",
+            "image": "/catalog-app/images/design/flowers/05.jpg"
+          },
+          {
+            "id": 201006,
+            "title": "06",
+            "image": "/catalog-app/images/design/flowers/06.jpg"
+          },
+          {
+            "id": 201007,
+            "title": "07",
+            "image": "/catalog-app/images/design/flowers/07.jpg"
+          },
+          {
+            "id": 201008,
+            "title": "08",
+            "image": "/catalog-app/images/design/flowers/08.jpg"
+          },
+          {
+            "id": 201009,
+            "title": "09",
+            "image": "/catalog-app/images/design/flowers/09.jpg"
+          },
+          {
+            "id": 201010,
+            "title": "10",
+            "image": "/catalog-app/images/design/flowers/10.jpg"
+          },
+          {
+            "id": 201011,
+            "title": "11",
+            "image": "/catalog-app/images/design/flowers/11.jpg"
+          },
+          {
+            "id": 201012,
+            "title": "12",
+            "image": "/catalog-app/images/design/flowers/12.jpg"
+          },
+          {
+            "id": 201013,
+            "title": "13",
+            "image": "/catalog-app/images/design/flowers/13.jpg"
+          },
+          {
+            "id": 201014,
+            "title": "14",
+            "image": "/catalog-app/images/design/flowers/14.jpg"
+          },
+          {
+            "id": 201015,
+            "title": "15",
+            "image": "/catalog-app/images/design/flowers/15.jpg"
+          },
+          {
+            "id": 201016,
+            "title": "16",
+            "image": "/catalog-app/images/design/flowers/16.jpg"
+          },
+          {
+            "id": 201017,
+            "title": "17",
+            "image": "/catalog-app/images/design/flowers/17.jpg"
+          },
+          {
+            "id": 201018,
+            "title": "18",
+            "image": "/catalog-app/images/design/flowers/18.jpg"
+          },
+          {
+            "id": 201019,
+            "title": "19",
+            "image": "/catalog-app/images/design/flowers/19.jpg"
+          },
+          {
+            "id": 201021,
+            "title": "21",
+            "image": "/catalog-app/images/design/flowers/21.jpg"
+          },
+          {
+            "id": 201022,
+            "title": "22",
+            "image": "/catalog-app/images/design/flowers/22.jpg"
+          },
+          {
+            "id": 201023,
+            "title": "23",
+            "image": "/catalog-app/images/design/flowers/23.jpg"
+          },
+          {
+            "id": 201024,
+            "title": "24",
+            "image": "/catalog-app/images/design/flowers/24.jpg"
+          },
+          {
+            "id": 201026,
+            "title": "26",
+            "image": "/catalog-app/images/design/flowers/26.jpg"
+          },
+          {
+            "id": 201027,
+            "title": "27",
+            "image": "/catalog-app/images/design/flowers/27.jpg"
+          },
+          {
+            "id": 201028,
+            "title": "28",
+            "image": "/catalog-app/images/design/flowers/28.jpg"
+          },
+          {
+            "id": 201029,
+            "title": "29",
+            "image": "/catalog-app/images/design/flowers/29.jpg"
+          },
+          {
+            "id": 201038,
+            "title": "38",
+            "image": "/catalog-app/images/design/flowers/38.jpg"
+          },
+          {
+            "id": 201039,
+            "title": "39",
+            "image": "/catalog-app/images/design/flowers/39.jpg"
+          },
+          {
+            "id": 201040,
+            "title": "40",
+            "image": "/catalog-app/images/design/flowers/40.jpg"
+          },
+          {
+            "id": 201046,
+            "title": "46",
+            "image": "/catalog-app/images/design/flowers/46.jpg"
+          },
+          {
+            "id": 201047,
+            "title": "47",
+            "image": "/catalog-app/images/design/flowers/47.jpg"
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "title": "Свечи",
+        "items": [
+          {
+            "id": 202001,
+            "title": "01",
+            "image": "/catalog-app/images/design/candles/01.jpg"
+          },
+          {
+            "id": 202003,
+            "title": "03",
+            "image": "/catalog-app/images/design/candles/03.jpg"
+          },
+          {
+            "id": 202004,
+            "title": "04",
+            "image": "/catalog-app/images/design/candles/04.jpg"
+          },
+          {
+            "id": 202005,
+            "title": "05",
+            "image": "/catalog-app/images/design/candles/05.jpg"
+          },
+          {
+            "id": 202006,
+            "title": "06",
+            "image": "/catalog-app/images/design/candles/06.jpg"
+          },
+          {
+            "id": 202008,
+            "title": "08",
+            "image": "/catalog-app/images/design/candles/08.jpg"
+          },
+          {
+            "id": 202009,
+            "title": "09",
+            "image": "/catalog-app/images/design/candles/09.jpg"
+          },
+          {
+            "id": 202010,
+            "title": "10",
+            "image": "/catalog-app/images/design/candles/10.jpg"
+          },
+          {
+            "id": 202011,
+            "title": "11",
+            "image": "/catalog-app/images/design/candles/11.jpg"
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "title": "Оборот",
+        "items": [
+          {
+            "id": 203001,
+            "title": "01",
+            "image": "/catalog-app/images/design/reverse/01.png"
+          },
+          {
+            "id": 203002,
+            "title": "02",
+            "image": "/catalog-app/images/design/reverse/02.png"
+          },
+          {
+            "id": 203003,
+            "title": "03",
+            "image": "/catalog-app/images/design/reverse/03.png"
+          },
+          {
+            "id": 203004,
+            "title": "04",
+            "image": "/catalog-app/images/design/reverse/04.png"
+          },
+          {
+            "id": 203005,
+            "title": "05",
+            "image": "/catalog-app/images/design/reverse/05.png"
+          },
+          {
+            "id": 203006,
+            "title": "06",
+            "image": "/catalog-app/images/design/reverse/06.png"
+          },
+          {
+            "id": 203007,
+            "title": "07",
+            "image": "/catalog-app/images/design/reverse/07.png"
+          },
+          {
+            "id": 203008,
+            "title": "08",
+            "image": "/catalog-app/images/design/reverse/08.png"
+          },
+          {
+            "id": 203009,
+            "title": "09",
+            "image": "/catalog-app/images/design/reverse/09.png"
+          },
+          {
+            "id": 203010,
+            "title": "10",
+            "image": "/catalog-app/images/design/reverse/10.png"
+          },
+          {
+            "id": 203011,
+            "title": "11",
+            "image": "/catalog-app/images/design/reverse/11.png"
+          },
+          {
+            "id": 203012,
+            "title": "12",
+            "image": "/catalog-app/images/design/reverse/12.png"
+          },
+          {
+            "id": 203013,
+            "title": "13",
+            "image": "/catalog-app/images/design/reverse/13.png"
+          },
+          {
+            "id": 203014,
+            "title": "14",
+            "image": "/catalog-app/images/design/reverse/14.png"
+          },
+          {
+            "id": 203015,
+            "title": "15",
+            "image": "/catalog-app/images/design/reverse/15.png"
+          },
+          {
+            "id": 203016,
+            "title": "16",
+            "image": "/catalog-app/images/design/reverse/16.png"
+          },
+          {
+            "id": 203017,
+            "title": "17",
+            "image": "/catalog-app/images/design/reverse/17.png"
+          },
+          {
+            "id": 203018,
+            "title": "18",
+            "image": "/catalog-app/images/design/reverse/18.png"
+          },
+          {
+            "id": 203049,
+            "title": "49",
+            "image": "/catalog-app/images/design/reverse/49.png"
+          },
+          {
+            "id": 203050,
+            "title": "50",
+            "image": "/catalog-app/images/design/reverse/50.png"
+          },
+          {
+            "id": 203051,
+            "title": "51",
+            "image": "/catalog-app/images/design/reverse/51.png"
+          },
+          {
+            "id": 203052,
+            "title": "52",
+            "image": "/catalog-app/images/design/reverse/52.png"
+          },
+          {
+            "id": 203053,
+            "title": "53",
+            "image": "/catalog-app/images/design/reverse/53.png"
+          },
+          {
+            "id": 203054,
+            "title": "54",
+            "image": "/catalog-app/images/design/reverse/54.png"
+          },
+          {
+            "id": 203055,
+            "title": "55",
+            "image": "/catalog-app/images/design/reverse/55.png"
+          },
+          {
+            "id": 203056,
+            "title": "56",
+            "image": "/catalog-app/images/design/reverse/56.png"
+          },
+          {
+            "id": 203057,
+            "title": "57",
+            "image": "/catalog-app/images/design/reverse/57.png"
+          },
+          {
+            "id": 203058,
+            "title": "58",
+            "image": "/catalog-app/images/design/reverse/58.png"
+          },
+          {
+            "id": 203059,
+            "title": "59",
+            "image": "/catalog-app/images/design/reverse/59.png"
+          },
+          {
+            "id": 203060,
+            "title": "60",
+            "image": "/catalog-app/images/design/reverse/60.png"
+          }
+        ]
       }
     ]
   }

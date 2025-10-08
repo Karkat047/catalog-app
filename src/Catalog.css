@@ -50,8 +50,7 @@
 
 .item-image {
     width: 100%;
-    height: 400px; /* Ограничиваем высоту */
-    object-fit: cover; /* Обрезаем изображение, чтобы оно не растягивалось */
+    object-fit: cover;
     border-radius: 8px;
     margin-bottom: 10px;
 }
