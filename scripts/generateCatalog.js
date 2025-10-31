@@ -6,6 +6,7 @@ const nameMap = {
 	vertical: 'Вертикальные',
 	horizontal: 'Горизонтальные',
 	design: 'Оформление',
+	crosses: 'Кресты',
 	flowers: 'Цветы',
 	candles: 'Свечи',
 	reverse: 'Оборот',
